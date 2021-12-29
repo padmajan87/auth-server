@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: auth-server
+  cloud:
+    vault:
+      uri: http://localhost:8200
+      token: s.UJqiupZn26PIZJrAZAgZqso8
+  
